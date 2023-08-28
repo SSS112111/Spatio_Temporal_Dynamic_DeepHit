@@ -1,0 +1,42 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="17">
+            <item index="0" class="java.lang.String" itemvalue="interface-meta" />
+            <item index="1" class="java.lang.String" itemvalue="wrapt" />
+            <item index="2" class="java.lang.String" itemvalue="astor" />
+            <item index="3" class="java.lang.String" itemvalue="autograd-gamma" />
+            <item index="4" class="java.lang.String" itemvalue="numpy" />
+            <item index="5" class="java.lang.String" itemvalue="contourpy" />
+            <item index="6" class="java.lang.String" itemvalue="formulaic" />
+            <item index="7" class="java.lang.String" itemvalue="pandas" />
+            <item index="8" class="java.lang.String" itemvalue="fonttools" />
+            <item index="9" class="java.lang.String" itemvalue="lifelines" />
+            <item index="10" class="java.lang.String" itemvalue="importlib-resources" />
+            <item index="11" class="java.lang.String" itemvalue="autograd" />
+            <item index="12" class="java.lang.String" itemvalue="future" />
+            <item index="13" class="java.lang.String" itemvalue="zipp" />
+            <item index="14" class="java.lang.String" itemvalue="observable" />
+            <item index="15" class="java.lang.String" itemvalue="pytz" />
+            <item index="16" class="java.lang.String" itemvalue="dsm" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Lab_1.main2.get_point" />
+          <option value="Lab_1.main2.point_matrix" />
+          <option value="Lab_1.main2.compute_m" />
+          <option value="Lab_1.main2.*" />
+          <option value="Lab_1.test.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
